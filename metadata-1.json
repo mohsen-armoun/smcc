@@ -1,0 +1,5 @@
+{
+  "name": "Copy of alpha6",
+  "description": "A comprehensive trading platform implementing a multi-timeframe Smart Money Concepts (SMC) strategy with backtesting and replay functionalities. Analyze market structure, identify points of interest, and find confirmed entries across high, mid, and low timeframes.",
+  "requestFramePermissions": []
+}
